@@ -1,5 +1,4 @@
 
-
 public abstract class Actor implements ActorBehaviour {
     protected final String name;
     protected boolean isTakeOrder;
