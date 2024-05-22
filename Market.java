@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Market implements MarketBehaviour, QueueBehaviour {
     private final List<Actor> queue;
 
